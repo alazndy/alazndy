@@ -1,48 +1,63 @@
-```markdown
-# Hey there! I'm alazndy 👋
-### Welcome to my corner of the internet! ✨
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
----
+###
 
-## 👋 About Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alazndy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alazndy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-I'm **alazndy**, a passionate developer constantly exploring new technologies and pushing the boundaries of what's possible in the digital realm. My journey often involves diving deep into robust and scalable application development, particularly enjoying the power and flexibility that languages like **TypeScript** bring to complex projects. I love crafting engaging user experiences and building modern web applications, ensuring they are not just functional but also delightful to use. I'm always eager to learn, adapt, and innovate, transforming ideas into polished digital solutions. 🚀
+###
 
-## 🔭 I’m currently working on...
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-I'm currently exploring new horizons in web development, focusing on building robust and scalable applications. You'll often find me deep-diving into a project that leverages **TypeScript** to create performant and type-safe frontend experiences. My current passion project involves architecting a new web application, focusing on clean code, reusability, and delivering an exceptional user experience. I'm always on the lookout for exciting challenges and opportunities to apply cutting-edge development practices. 🏗️
+###
 
-## 🚀 Tech Stack & Skills
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+</div>
 
-I love getting my hands dirty with a variety of tools and technologies. Here are some of my favorites:
+###
 
-### Languages & Core:
-- HTML [![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- CSS [![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- TypeScript [![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-- JavaScript [![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
-### Frameworks & Libraries:
-- React [![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-- Node.js [![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+###
 
-### Tools & Platforms:
-- Git [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-- VS Code [![VS Code Badge](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+<br clear="both">
 
-## 📈 My GitHub Stats
+<img src="https://raw.githubusercontent.com/alazndy/alazndy/output/snake.svg" alt="Snake animation" />
 
-Check out some of my GitHub activity and stats! 👇
+###
 
-[![alazndy's GitHub stats](https://github-readme-stats.vercel.app/api?username=alazndy&show_icons=true&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alazndy&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
 
-## 📫 How to Reach Me
-
-Let's connect and build something amazing together! Feel free to reach out. 💬
-
--   **LinkedIn:** [alazndy on LinkedIn](https://www.linkedin.com/in/alazndy) (Placeholder)
--   **Twitter:** [Follow alazndy](https://twitter.com/alazndy) (Placeholder)
--   **Portfolio:** [My Personal Website](https://www.alazndy.dev) (Placeholder)
--   **Email:** alazndy@example.com (Placeholder)
-```
+###
