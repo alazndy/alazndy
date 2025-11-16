@@ -1,83 +1,74 @@
-# Hello 👋, I'm Alexander Azarov
-### A Polyglot Developer & Cloud Enthusiast
+# Hello 👋, I'm Goktug TURHAN
+### An Innovative Embedded & Web Developer
 
 <p align="left">
-My journey as a developer is fueled by a passion for continuous exploration and learning. 🚀 I love diving into diverse ecosystems, crafting elegant solutions in Ruby and Scala, and architecting robust cloud infrastructure with HCL (Terraform). 🛠️ This polyglot approach allows me to select the perfect tool for each challenge, whether it's building backend services with Java or automating complex workflows with Makefiles. I'm always on the lookout for the next new technology to master! 🧠
+My journey into the world of technology is fueled by an insatiable curiosity and a passion for exploring new frontiers in development! 🚀 From crafting embedded solutions with C++ for projects like my ESP-based car remote 🚗 to building interactive web interfaces with HTML and TypeScript for web-based ADCs 🌐, I love bridging the gap between hardware and software. I am constantly seeking new challenges and technologies to expand my skill set and create impactful solutions. ✨
 </p>
 
 ---
 
 ## 📬 Contact Me
 <p align="left">
-<a href="https://linkedin.com/in/alexander-azarov" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://x.com/#" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=X&logoColor=white" alt="X"></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Website-4789F6?style=flat-square&logo=google-chrome&logoColor=white" alt="Website"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=flat-square&logo=react&logoColor=white" alt="Portfolio"></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=X&logoColor=white" alt="X"></a>
+<a href="mailto:goktug@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
 ## 💻 My Tech Stack
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original-wordmark.svg" height="40" alt="scala logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gnu/gnu-original.svg" height="40" alt="gnu logo"  />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/> </a> <img width="12" />
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" height="40"/> </a> <img width="12" />
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40"/> </a> <img width="12" />
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40"/> </a> <img width="12" />
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" height="40"/> </a> <img width="12" />
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" height="40"/> </a> <img width="12" />
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" height="40"/> </a> <img width="12" />
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/> </a>
 </p>
 
 ---
 
 ## 🛠️ Tools I Use
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original-wordmark.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" /></a><img width="12" />
+  <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" /></a><img width="12" />
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo" /></a><img width="12" />
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo" /></a><img width="12" />
+  <a href="https://www.solidworks.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original-wordmark.svg" height="40" alt="solidworks logo" /></a><img width="12" />
+  <a href="https://www.autodesk.com/products/fusion-360/overview" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fusion360/fusion360-original.svg" height="40" alt="fusion360 logo" /></a><img width="12" />
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" /></a><img width="12" />
+  <a href="https://www.blender.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo" /></a>
 </p>
 
 ---
 
 ## 🚀 Showcased Projects
-### 🛡️ Legitbot
-A powerful Ruby gem to verify if a web request truly comes from a search engine crawler 🕷️ or an impersonating agent 🕵️‍♀️, protecting your application from bad actors.  
-[**`</> View on GitHub`**](https://github.com/alaz/legitbot)
 
-### ☁️ openvpn-in-yandex.tf
-A straightforward Terraform configuration to quickly deploy a secure and private OpenVPN server in the Yandex Cloud ecosystem. 🚀  
-[**`</> View on GitHub`**](https://github.com/alaz/openvpn-in-yandex.tf)
+### 🚗 ESP Car Remote
+A C++ based project to create a remote control system for a car using an ESP module, blending embedded programming with practical automotive applications.
+<a href="https://github.com/alazndy/ESP-Car-Remote" target="_blank">**View Project →**</a>
+
+### 🌐 ADC Web Interface
+An interactive web interface built with HTML to visualize and interact with Analog-to-Digital Converter (ADC) data, perfect for monitoring sensor readings in real-time.
+<a href="https://github.com/alazndy/ADC-web" target="_blank">**View Project →**</a>
 
 ---
 
 ## 📊 My GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alaz&show_icons=true&count_private=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaz&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alaz&theme=dracula&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=alaz&theme=dracula&column=7&margin-w=15&margin-h=15" alt="trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alazndy&show_icons=true&count_private=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alazndy&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alazndy&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alazndy&theme=dracula&column=7&margin-w=15&margin-h=15" alt="trophy" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alaz&theme=dracula&hide_border=true&area=true" height="300" alt="activity-graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alazndy&theme=dracula&hide_border=true&area=true" height="300" alt="activity-graph" />
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alaz/alaz/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/alazndy/alazndy/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
-```
