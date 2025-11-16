@@ -1,87 +1,84 @@
-<h2 align="left">Hi 👋! My name is Goktug TURHAN and I'm a Digital Explorer and Web Developer, from the ever-evolving digital landscape.</h2>
+# Hello 👋, I'm Goktug TURHAN
+### A Digital Craftsman & Tech Enthusiast
 
-### 👤 About Me
 <p align="left">
-Hello there! I'm on an exhilarating journey through the world of code, driven by a deep passion for exploring new technologies and building amazing things. 🚀 From crafting dynamic web experiences with TypeScript 💻 to structuring the digital world with HTML, I love bringing ideas to life. My curiosity doesn't stop at the web; I'm always looking for the next challenge, whether it's a new framework or a hands-on hardware project. Let's build the future, one line of code at a time! 🌟
+  Hello! I'm Goktug, a passionate developer on a perpetual journey of discovery in the tech world. 🚀 My coding adventure is fueled by a desire to build amazing things and a curiosity for how technology can solve real-world problems. From crafting interactive web experiences with modern tools like HTML and TypeScript 🌐 to tinkering with hardware and IoT projects, I thrive on learning and bringing ideas to life. I'm always on the lookout for the next challenge and the next innovative technology to master! 💡
 </p>
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alazndy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alazndy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app/?username=alazndy&theme=dracula&column=3&margin-w=15&margin-h=15" height="150" alt="trophy graph" />
-</div>
-
-###
-
-<h3 align="left">💻 Tech Stack</h3>
+## 📬 Contact Me
 <p align="left">
-  Here are some of the technologies I've been working with recently:
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=X&logoColor=white" alt="X"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=flat-square&logo=go&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:goktug.turhan.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-<h4 align="left">Frontend:</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-</div>
-<h4 align="left">Backend:</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-<h4 align="left">Tools & Utilities:</h4>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-</div>
 
-###
+---
 
-<h3 align="left">🚀 My Recent Projects</h3>
-<p>
-  - <b><a href="https://github.com/alazndy/ESP-Car-Remote">ESP-Car-Remote</a></b>: A hands-on project exploring remote control functionalities for an ESP-based vehicle. 🚗💨<br>
-  - <b><a href="https://github.com/alazndy/bs9100tsim">bs9100tsim</a></b>: A powerful simulation tool developed with TypeScript to model complex systems. ⚙️<br>
-  - <b><a href="https://github.com/alazndy/ADC-web">ADC-web</a></b>: A sleek web interface built with HTML for visualizing Analog-to-Digital Converter data. 📈
-</p>
-      
-###
-
-<h3 align="left">🧠 Currently Learning</h3>
+## 💻 My Tech Stack
 <p align="left">
-  I'm always looking to expand my skillset. Currently, I'm diving deeper into...
-  <ul>
-    <li><b>Next.js</b> to build powerful, server-rendered applications with React and TypeScript.</li>
-    <li><b>GraphQL</b> to create more efficient and flexible APIs for my web projects.</li>
-    <li><b>PlatformIO</b> to further explore my interest in embedded systems and IoT development.</li>
-  </ul>
+  <h4 align="left">Frontend:</h4>
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  </div>
+  <br>
+  <h4 align="left">Backend:</h4>
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  </div>
+  <br>
+  <h4 align="left">Hardware & IoT:</h4>
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  </div>
+  <br>
+  <h4 align="left">Tools & Utilities:</h4>
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  </div>
 </p>
 
-###
+---
 
-<h3 align="left">📬 Get in Touch</h3>
-<div align="left">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo" />
-  </a>
-  <a href="https://your-portfolio-url.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
-  </a>
-</div>
+## 🚀 Showcased Projects
+### ESP-Car-Remote
+An exciting IoT project leveraging an ESP microcontroller to create a custom remote control system for a vehicle. 🚗💨
+[View Project](https://github.com/alazndy/ESP-Car-Remote)
+***
+### ADC-web
+A web-based interface for visualizing real-time Analog-to-Digital Converter (ADC) data, built with clean and simple HTML. 📈
+[View Project](https://github.com/alazndy/ADC-web)
 
-###
+---
 
-<br clear="both">
+## 📊 My GitHub Stats & Activity
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alazndy&show_icons=true&count_private=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alazndy&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alazndy&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alazndy&theme=dracula&column=7&margin-w=15&margin-h=15" alt="trophy" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alazndy&theme=dracula&hide_border=true&area=true" height="300" alt="activity-graph" />
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alazndy/alazndy/output/snake.svg" alt="Snake animation" />
+</p>
 
-<img src="https://raw.githubusercontent.com/alazndy/alazndy/output/snake.svg" alt="Snake animation" />
+---
