@@ -1,8 +1,8 @@
 # Hello 👋, I'm Goktug TURHAN
-### A Digital Craftsman & Tech Enthusiast
+### A Versatile Software Engineer & Tech Explorer
 
 <p align="left">
-  Hello! I'm Goktug, a passionate developer on a perpetual journey of discovery in the tech world. 🚀 My coding adventure is fueled by a desire to build amazing things and a curiosity for how technology can solve real-world problems. From crafting interactive web experiences with modern tools like HTML and TypeScript 🌐 to tinkering with hardware and IoT projects, I thrive on learning and bringing ideas to life. I'm always on the lookout for the next challenge and the next innovative technology to master! 💡
+  As a passionate developer, my journey in technology is driven by a constant curiosity to explore what's new and what's next! 🚀 I love diving deep into different domains, from the low-level power of C++ for embedded systems like my IoT projects ⚙️, to crafting user-facing experiences on the web with HTML and TypeScript 🌐. Every line of code is a new opportunity to learn, build, and innovate. 💡
 </p>
 
 ---
@@ -11,58 +11,52 @@
 <p align="left">
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=X&logoColor=white" alt="X"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=flat-square&logo=go&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:goktug.turhan.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Portfolio-255E63?style=flat-square&logo=react&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
 
 ## 💻 My Tech Stack
 <p align="left">
-  <h4 align="left">Frontend:</h4>
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  </div>
-  <br>
-  <h4 align="left">Backend:</h4>
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  </div>
-  <br>
-  <h4 align="left">Hardware & IoT:</h4>
+  <h4 align="left">Languages & Core Technologies:</h4>
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   </div>
   <br>
-  <h4 align="left">Tools & Utilities:</h4>
+  <h4 align="left">Frameworks & Libraries:</h4>
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  </div>
+  <br>
+  <h4 align="left">Tools & Platforms:</h4>
   <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   </div>
 </p>
 
 ---
 
 ## 🚀 Showcased Projects
-### ESP-Car-Remote
-An exciting IoT project leveraging an ESP microcontroller to create a custom remote control system for a vehicle. 🚗💨
+### 🚗 ESP-Car-Remote
+An exciting IoT project using C++ to build a remote control system for a vehicle with an ESP microcontroller. A deep dive into embedded systems and wireless communication! 📡
 [View Project](https://github.com/alazndy/ESP-Car-Remote)
 ***
-### ADC-web
-A web-based interface for visualizing real-time Analog-to-Digital Converter (ADC) data, built with clean and simple HTML. 📈
+### 🌐 ADC-web
+A web-based interface for visualizing data from an Analog-to-Digital Converter (ADC). This project demonstrates a practical application of front-end development with HTML to create functional UIs. 📊
 [View Project](https://github.com/alazndy/ADC-web)
 
 ---
