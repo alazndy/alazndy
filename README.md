@@ -5,7 +5,7 @@
 
   <!-- Typing Bio -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=33CC33&center=true&vCenter=true&width=500&lines=Building+the+T-Ecosystem;Architecting+Scalable+Solutions;Exploring+AI+%26+Financial+Tech;Coding+the+Future" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=33CC33&center=true&vCenter=true&width=500&lines=Building+the+T-Ecosystem;Architecting+Scalable+Solutions;IoT+%26+Embedded+Systems+Innovator;Coding+the+Future" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -26,47 +26,69 @@
 <br/><hr/><br/>
 
 <!-- Main Content Grid -->
-<table align="center" border="0" cellpadding="10">
+<table align="center" border="0" cellpadding="10" width="100%">
   <tr>
-    <td align="left" width="60%">
-      
-### 🚀 The T-Ecosystem
-
-I am the architect behind **T-Ecosystem** (TEK), a unified suite of tools powering productivity.
-
-| Component | Status | Description |
-| :--- | :---: | :--- |
-| **[TEK](https://github.com/alazndy/TEK)** | ![Core](https://img.shields.io/badge/KERNEL-Active-success) | Core definitions & utilities. |
-| **[TEK-UI](https://github.com/alazndy/TEK-UI)** | ![UI](https://img.shields.io/badge/UI_KIT-Stable-blueviolet) | Premium shared component library. |
-| **[T-Launcher](https://github.com/alazndy/T-Launcher)** | ![App](https://img.shields.io/badge/APP-Beta-orange) | Command center for the ecosystem. |
-| **[t-market](https://github.com/alazndy/t-market)** | ![Market](https://img.shields.io/badge/MARKET-Beta-yellow) | Asset trading platform. |
-
-    </td>
-    <td align="center" width="40%">
-      
-### 🧠 Deep Tech
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/AI_Trading-TrAIder-red?style=flat-square"/><br/>
-      Global & BIST Market Analysis
-    </td>
-  </tr> 
-  <tr>
-     <td align="center">
-      <img src="https://img.shields.io/badge/IoT-ESP32-blue?style=flat-square"/><br/>
-      Connected Hardware Solutions
+    <td colspan="2" align="center">
+      <h3>🚀 The T-Ecosystem</h3>
+      <p>A unified suite of tools powering productivity.</p>
     </td>
   </tr>
-    <tr>
-     <td align="center">
-      <img src="https://img.shields.io/badge/Algo-Content-green?style=flat-square"/><br/>
-      Intelligent Media Discovery
+  <tr>
+    <td align="left" width="50%">
+      
+| Component | &nbsp;&nbsp;Status&nbsp;&nbsp; | Description |
+| :--- | :---: | :--- |
+| **[TEK](https://github.com/alazndy/TEK)** | ![Core](https://img.shields.io/badge/KERNEL-Success) | Core definitions & utilities. |
+| **[TEK-UI](https://github.com/alazndy/TEK-UI)** | ![UI](https://img.shields.io/badge/UI_KIT-Stable) | Premium shared component library. |
+| **[T-Launcher](https://github.com/alazndy/T-Launcher)** | ![App](https://img.shields.io/badge/APP-Beta) | Command center for the ecosystem. |
+
+    </td>
+    <td align="left" width="50%">
+
+| Component | &nbsp;&nbsp;Status&nbsp;&nbsp; | Description |
+| :--- | :---: | :--- |
+| **[t-market](https://github.com/alazndy/t-market)** | ![Market](https://img.shields.io/badge/MARKET-Beta) | Asset trading platform. |
+| **[UPH](https://github.com/alazndy/UPH)** | ![Dash](https://img.shields.io/badge/DASH-Active) | Project management dashboard. |
+| **[rutinless-v2](https://github.com/alazndy/rutinless-v2)** | ![Task](https://img.shields.io/badge/TASK-Active) | Routine & task management (Oba). |
+
     </td>
   </tr>
 </table>
 
+<br/>
+
+<!-- Project Portfolio Grid -->
+<table align="center" border="0" cellpadding="10" width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <h3>⚡ Embedded & IoT</h3>
+      <img src="https://img.shields.io/badge/ESP32-Hardware-blue?style=flat-square&logo=espressif"/><br/><br/>
+      **[ESP-Car-Remote](https://github.com/alazndy/ESP-Car-Remote)**<br/>
+      C++ Controller logic for remote cars.<br/><br/>
+      **[esp32flutter](https://github.com/alazndy/esp32flutter)**<br/>
+      Flutter app for ESP32 interaction.<br/><br/>
+      **[bs9100tsim](https://github.com/alazndy/bs9100tsim)**<br/>
+      Simulation environment for BS9100 system.
+    </td>
+    <td align="center" width="33%">
+      <h3>🧠 AI & Finance</h3>
+      <img src="https://img.shields.io/badge/Algo-Trading-red?style=flat-square&logo=python"/><br/><br/>
+      **[TrAIder](https://github.com/alazndy/TrAIder)**<br/>
+      Automated algorithmic trading system.<br/><br/>
+      **[ai-trader](https://github.com/alazndy/ai-trader)**<br/>
+      BIST / GLOBAL / CHIPS market analysis.<br/><br/>
+      **[Content](https://github.com/alazndy/Content)**<br/>
+      Intelligent media discovery engine.
+    </td>
+    <td align="center" width="33%">
+       <h3>🌐 Web & Creative</h3>
+      <img src="https://img.shields.io/badge/Web-Experience-green?style=flat-square&logo=react"/><br/><br/>
+      **[GTab](https://github.com/alazndy/GTab)**<br/>
+      Custom New/Home Tab extension.<br/><br/>
+      **[ADC-web](https://github.com/alazndy/ADC-web)**<br/>
+      Corporate web project design.<br/><br/>
+      **[Akort](https://github.com/alazndy/Akortv2)**<br/>
+      Advanced mobile applications suite.
     </td>
   </tr>
 </table>
@@ -81,7 +103,7 @@ I am the architect behind **T-Ecosystem** (TEK), a unified suite of tools poweri
   <br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,express&perline=10" /><br/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,firebase&perline=10" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,firebase,arduino&perline=10" />
 </div>
 
 <br/><hr/><br/>
